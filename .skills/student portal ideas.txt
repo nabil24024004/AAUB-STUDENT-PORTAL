@@ -1,0 +1,38 @@
+student profile
+faculty profile
+student* profile (CR)
+office profile
+
+4 departments: Aerospace Engineering, Avionics Engineering, Aircraft Maintenance Engineering(Avionics), Aircraft Maintenance Engineering(Aerospace).
+
+- per department per batch routinewise classroom show: (active, reserve, empty).
+- only CR can book class if necessary.
+- class will be pre-booked according to the routines.
+- faculty class notification/email/sms.
+
+
+student mail: name.student@portal.aaub
+faculty mail: name.faculty@portal.aaub
+
+
+- dedicated messenger on profile.
+- each department common chat group. (only CR's can message)
+- each batch of that department chat group.
+- class routine notifications.
+- show skills, portfolio on profile
+- Projects can filter out candidates and hire from that skills.
+- projects page.
+- clubs page.
+- latest important notices will show on profile dashboard.
+- previous year questions
+- course materials.(yt links, sites, docs links, courses, videos)
+- faculty can provide zoom/meet meeting links on students dashboard.
+- students can download his own profile data on json format or md format.
+- lab simulations.
+- different mvp's integration.
+- mcp from different mvp's.
+
+
+- ct, mid and marksheet number before final exam will show in the dashboard.
+- CR will upload this numbers by name and id.
+- a department can only have 2 CR at a sem.
